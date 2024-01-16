@@ -1,0 +1,46 @@
+body {
+    background-color: #7360DF;
+}
+
+.tion {
+    margin: 3rem;
+    border-radius: 17px;
+    background-color: #F3CCF3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pp {
+    font-size: 2rem;
+    color: #190482;
+}
+
+form{
+    background-color: #7071E8;
+    border-radius: 22px;
+    padding: 3rem;
+    margin: 3rem;
+
+}
+
+input[type="button"] {
+    border: 3px solid #F1EAFF;
+    color: #3D30A2;
+    font-weight: bold;
+    border-radius: 3px;
+    padding: 1rem;
+    margin: .5rem;
+}
+
+.display input {
+    border: 3px solid #E5D4FF;
+    color: #610C9F;
+    padding: 1.2rem;
+    width: 90%;
+    border-radius: 4px;
+}
+
+.ipt input {
+    width: 40%;
+}
